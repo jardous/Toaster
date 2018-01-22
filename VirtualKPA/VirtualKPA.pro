@@ -5,6 +5,7 @@
 #-------------------------------------------------
 
 CONFIG   += debug_and_release
+CONFIG   += c++11
 QT       -= gui
 
 TARGET = VirtualKPA

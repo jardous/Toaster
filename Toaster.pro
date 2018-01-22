@@ -6,3 +6,4 @@ SUBDIRS += \
     Toaster
 
 
+CONFIG += c++11
